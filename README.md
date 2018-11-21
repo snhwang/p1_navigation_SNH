@@ -8,7 +8,7 @@ This project was one of the requirements for completing the Deep Reinforcement L
 
 A learning agent is trained to navigate and collect bananas in a finite square world shown in the clip below. Collecting a yellow banana results in a reward of +1 while collecting a blue banana results in a negative reward of -1. The environment was pre-built for the project using the Unity ML-agents toolkit.
 
-![](X:\p1_navigation_SNH\environment.gif)
+![](X:p1_navigation_SNH\environment.gif)
 
 ​					(From the Udacity course project introduction)
 
